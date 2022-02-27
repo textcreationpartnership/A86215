@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect narative of a sea-fight near the coast of Portugal; between the English and the French. With, the manner of their engagement, the further proceedings of the French fleet, and the staying of some merchants ships at Roan, in Normandy.</title>
+            <author>C. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86215</idno>
+            <idno type="STC">Wing H15</idno>
+            <idno type="STC">Thomason E602_14</idno>
+            <idno type="STC">ESTC R206415</idno>
+            <idno type="EEBO-CITATION">99865577</idno>
+            <idno type="PROQUEST">99865577</idno>
+            <idno type="VID">117822</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86215)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117822)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E602[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect narative of a sea-fight near the coast of Portugal; between the English and the French. With, the manner of their engagement, the further proceedings of the French fleet, and the staying of some merchants ships at Roan, in Normandy.</title>
+                  <author>C. H.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W. and are to be sold at the Royall-Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A letter, signed: C.H., Dunkirk.</note>
+                  <note>Annotation on Thomason copy: "May. 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naval battles --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117822:1" rendition="simple:additions"/>
+            <p>A Perfect NARATIVE OF A SEA-FIGHT <hi>NEAR</hi> The Coaſt of PORTUGAL; BETWEEN The ENGLISH and the FRENCH. WITH, The manner of their engagement, the further Proceedings of the French Fleet, and the ſtaying of ſome Merchants ſhips at <hi>Roan,</hi> in <hi>Normandy.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. W.</hi> and are to be ſold at the <hi>Royall-Exchange.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:117822:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:117822:2"/>
+            <head>An Exact Relation of a Sea-fight near the Coaſt of PORTUGAL, be<g ref="char:EOLhyphen"/>tween the FRENCH and ENGLISH.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince the time of our weighing Anchor at Graveſend, and paſ<g ref="char:EOLhyphen"/>ſing the Channel of the Brittiſh Seas, great hath been the peri<g ref="char:EOLhyphen"/>lous diſtempers which accom<g ref="char:EOLhyphen"/>panied us; for we had not been many days at Sea (being bound for Scanderoon, a place of great traffique in Turky) but imme<g ref="char:EOLhyphen"/>diately the raging billows of the mercileſſe Sea, began to ſwell againſt us; inſomuch, that by the extremity of weather, and vehement ſtorms ariſing thereupon, the Ships that accompanied
+<pb n="2" facs="tcp:117822:3"/>us in our Voyage (being 5) were ſoon diſper<g ref="char:EOLhyphen"/>ſed, and ſeparated; and a tempeſt ariſing, eve<g ref="char:EOLhyphen"/>ry man bequeathed his life and fortune to the mercy of the all-devouring Ocean; but divine providence had ſo decreed, that in our greateſt extremity appeared Gods omnipotent and ten<g ref="char:EOLhyphen"/>der mercy, and when we thought the Seas to be our grave, they gaping to ſwallow and en<g ref="char:EOLhyphen"/>tomb our mortall carkaſſes, then did the om<g ref="char:EOLhyphen"/>nipotent Jehovah cauſe the winde to ceaſe, and the waters to become calm, whereby our ſhip might ride free from toſſing and tumbling: In thankfull acknowledgment thereof, for the great mercy and freedom which we then recei<g ref="char:EOLhyphen"/>ved, our Captain and Maſter of the ſhip, or<g ref="char:EOLhyphen"/>dered ſome time to be ſet a part, for an hum<g ref="char:EOLhyphen"/>ble thankſgiving to be given to the Almighty, for thoſe his great mercies, and delivering us his poor contemptible creatures, from the mer<g ref="char:EOLhyphen"/>cileſs jaws of death; which with great alacrity was accordingly performed, with bended knees, watry eyes, and hearts lift up to heaven, for our miraculous deliverance from (preſent) periſhing, and deſtruction. We had not ſailed many Leagues, 'ere we perceived our ſhip to
+<pb n="3" facs="tcp:117822:3"/>be driven near the Coaſt of Portugal, and that we had utterly loſt the reſt of our Fleet: Not<g ref="char:EOLhyphen"/>withſtanding we ſteered on our intended courſ, in which we had not continued many hours, but the Lord having delivered us out of the prece<g ref="char:EOLhyphen"/>dent danger, another preſented it ſelf before us; for we eſpied certain ſhips make after us, which we ſoon perceived to be French men of War, who having the benefit of the winde (and be<g ref="char:EOLhyphen"/>ing very ſwift of ſail) ſoon hail'd us; whereup<g ref="char:EOLhyphen"/>on, we commited our ſelves to the ſame provi<g ref="char:EOLhyphen"/>dence who had formerly delivered us, and reſol<g ref="char:EOLhyphen"/>ved (if they proved enemies) to ſacrifice our lives and fortunes each with other: But they be<g ref="char:EOLhyphen"/>ing approached (eſpying us to be Merchant<g ref="char:EOLhyphen"/>men) their Admirall immediately gave us a broad ſide, whereupon (they forcing us) we anſwered with a Volley ſuitable to that recei<g ref="char:EOLhyphen"/>ved; which cauſed the reſt to ſteer up, and encompaſſed us round, giving us ſeverall broad ſides; but we being ſenſible of their bloudthir<g ref="char:EOLhyphen"/>ſty barbariſm to the Engliſh, unanimouſly re<g ref="char:EOLhyphen"/>ſolved to fight it out, and anſwered them a<g ref="char:EOLhyphen"/>gain with round and key-ſhot, which did great execution on thoſe that man'd their Decks;
+<pb n="4" facs="tcp:117822:4"/>But the French being too numerous, we were over-powred by them, and they boorded us on both ſides, and ſlew many of our men, the reſi<g ref="char:EOLhyphen"/>due deſired quarter, which was granted; and having ranſacked our Ship and Cabines, a con<g ref="char:EOLhyphen"/>voy was ordered for our tranſportation to Dun<g ref="char:EOLhyphen"/>kirk; where we now remain priſoners, untill a ranſome can be procured from ſome certain Merchants: for the obtaining whereof, liberty is granted to repreſent our ſtate and condition to thoſe who employed us from England; a<g ref="char:EOLhyphen"/>mongſt which papers, I uſed means that this Narrative might be inſerted: And truly, if timely opportunity be not ſuddenly embraced, for the cleering of the narrow Seas, and Brittiſh Coaſts, of the French Pirats, and Daniſh rob<g ref="char:EOLhyphen"/>bers, I much fear, that it will be the caſe of ma<g ref="char:EOLhyphen"/>ny other of our Countrymen; for under the pretence of having Commiſſion from the King of Scots, they commit great ſpoil, by annoying and intercepting the Engliſh ſhipping; and if by chance they light on any ſmall ſhips or veſ<g ref="char:EOLhyphen"/>ſels, not able or unlikely to make oppoſition, they immediately boord them, exerciſing un<g ref="char:EOLhyphen"/>heard of cruelty, tying their priſoners back to
+<pb n="5" facs="tcp:117822:4"/>back, and mercileſly caſting them into the Sea; which had been our caſes (without doubt) but that the Lord put it in the heart of their Com<g ref="char:EOLhyphen"/>mander in chief, to lay a ſtrict command upon the reſt, that thoſe which deſired quarter, and ſubmitted to mercy, ſhould not receive any fur<g ref="char:EOLhyphen"/>ther prejudice. Sir, It is reported here, that cer<g ref="char:EOLhyphen"/>tain ſhips which are now ready to put forth to Sea, are to go for the relief of Prince Rupert, whoſe condition many [in this Town] ſeem to bewail, but very few will afford to redreſſe; Here is much talk of the Parliaments Summer-Fleet, which doth much ſtartle the Governour, and retards Rupert's ſupply: Alſo, ſome Mer<g ref="char:EOLhyphen"/>chants (who had formerly promiſed the Gover<g ref="char:EOLhyphen"/>nour, to be aiding and aſſiſting in ſetting forth certain ſhips) hearing of the preparations that are made for the Engliſh Fleet, are reſolved not to enter into any further engagement againſt England, but to uſe all the intereſt they have, to obtain leave to have free commerce and trade with the Engliſh. We have alſo intelligence here, that Captain Newbery, with one of the Parliaments men of War, hath lately lighted on two Frenchmen, and after a ſharp conflict took
+<pb n="6" facs="tcp:117822:5"/>them; By which means we hope for our enlarge<g ref="char:EOLhyphen"/>ment by way of exchange, and I entreat you, to be a means to haſten it. The Governour of Roan in Normandy (we hear) hath cauſed ſome Engliſh ſhips to be ſtaid, that were laden with Paper and other Commodities, which cauſeth ſome jealouſies (at preſent) that thoſe Ma<g ref="char:EOLhyphen"/>nufactures will be denied tranſportation into England. There are ſome old grudges newly revived by the French, which threaten ruine to the peace and tranquility of England; But it's hoped, all their devices will be blaſted in the bud, and England (which now ſeems deſpica<g ref="char:EOLhyphen"/>ble in the eys of many) will ſtill be preſerved from the fury of her enemies: Which is the continuall prayer of him, who remains</p>
+            <closer>
+               <signed>Your Chriſtian friend and fellow-ſoldier, <hi>C. H.</hi>
+               </signed>
+               <dateline>
+                  <hi>From our Captivity in Dunkirk,</hi> 
+                  <date>
+                     <hi>this</hi> 22. <hi>inſtant,</hi> 1650.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
